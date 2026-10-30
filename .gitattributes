@@ -1,0 +1,19 @@
+# Forzar fin de línea LF para todos los archivos de texto
+* text=auto eol=lf
+
+# Evitar que Git altere archivos internos críticos de Unity
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.meta text eol=lf
+*.mat text eol=lf
+*.anim text eol=lf
+*.controller text eol=lf
+
+# Mantener archivos binarios intactos
+*.png binary
+*.jpg binary
+*.fbx binary
+*.obj binary
+*.mp3 binary
+*.wav binary
