@@ -70,7 +70,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -99,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -166,12 +166,12 @@ TextureImporter:
       name: logo aluna_0
       rect:
         serializedVersion: 2
-        x: 153
-        y: 358
-        width: 685
-        height: 612
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,187 +184,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: logo aluna_1
-      rect:
-        serializedVersion: 2
-        x: 202
-        y: 193
-        width: 324
-        height: 141
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7e47ce79c6654e70800000000000000
-      internalID: 9098791637773405819
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: logo aluna_2
-      rect:
-        serializedVersion: 2
-        x: 537
-        y: 195
-        width: 247
-        height: 139
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e813f60e4579b890800000000000000
-      internalID: -7441787931268540192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: logo aluna_3
-      rect:
-        serializedVersion: 2
-        x: 313
-        y: 85
-        width: 63
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4134141aca1470f30800000000000000
-      internalID: 4541670958922023700
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: logo aluna_4
-      rect:
-        serializedVersion: 2
-        x: 369
-        y: 85
-        width: 101
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e9b4b62ddb3b0730800000000000000
-      internalID: 3966329717853043177
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: logo aluna_5
-      rect:
-        serializedVersion: 2
-        x: 471
-        y: 85
-        width: 59
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db144cf2dc7c6a580800000000000000
-      internalID: -8816139536447553091
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: logo aluna_6
-      rect:
-        serializedVersion: 2
-        x: 535
-        y: 86
-        width: 25
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed18cf061527a0cc0800000000000000
-      internalID: -3744054446360067618
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: logo aluna_7
-      rect:
-        serializedVersion: 2
-        x: 561
-        y: 85
-        width: 63
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fc87754f76c110a80800000000000000
-      internalID: -8502483388692203313
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: logo aluna_8
-      rect:
-        serializedVersion: 2
-        x: 620
-        y: 85
-        width: 53
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 116ce0fe54cd20a90800000000000000
-      internalID: -7349069448993651183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 987207584e74282469d48cd2d04a4ee8
     internalID: 0
     vertices: []
     indices: 
@@ -372,17 +196,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1024.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       logo aluna_0: 5490103323143965840
-      logo aluna_1: 9098791637773405819
-      logo aluna_2: -7441787931268540192
-      logo aluna_3: 4541670958922023700
-      logo aluna_4: 3966329717853043177
-      logo aluna_5: -8816139536447553091
-      logo aluna_6: -3744054446360067618
-      logo aluna_7: -8502483388692203313
-      logo aluna_8: -7349069448993651183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
